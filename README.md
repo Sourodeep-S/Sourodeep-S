@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Unity, C#**
 
-- 💬 Ask me about **C, C++, Python, Unity, DSA**
+- 💬 Ask me about **C, C++, C#, Python, Unity, DSA**
 
 - 📫 How to reach me **sarkarsourodeep11@gmail.com**
 
