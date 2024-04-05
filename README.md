@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/sourodeep_s69" target="blank"><img src="https://img.shields.io/twitter/follow/sourodeep_s69?logo=twitter&style=for-the-badge" alt="sourodeep_s69" /></a> </p>
 
-- 🌱 I’m currently learning **Unity, C#**
+- 🌱 I’m currently learning **Unity, C# and .NET Framework**
 
 - 💬 Ask me about **C, C++, C#, Python, Unity, DSA**
 
